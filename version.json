@@ -4,6 +4,6 @@
         "version": 3,
         "host": "https://raw.githubusercontent.com",
         "port": 443,
-        "path": "/ytrikoz/TM107Z_FW/master/firmware.bin"
+        "path": "ytrikoz/TM107Z_FW/master/firmware.bin"
     }
 }
