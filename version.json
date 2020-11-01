@@ -1,7 +1,7 @@
 {
     "esp8266": {
         "type": 0,
-        "version": 3,
+        "version": 5,
         "host": "raw.githubusercontent.com",
         "port": 443,
         "path": "ytrikoz/TM107Z_FW/master/firmware.bin"
